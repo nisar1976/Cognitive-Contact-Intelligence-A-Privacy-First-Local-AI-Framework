@@ -123,7 +123,3 @@ All AI models are downloaded locally on first run:
 - SentenceTransformers embedding model (`all-MiniLM-L6-v2`)
 
 After initial setup, no internet connection is required for any operation.
-
-## License
-
-This project is for educational and personal use.
