@@ -1,0 +1,70 @@
+# ============================================
+# Source Code (full code files - not published)
+# ============================================
+app.py
+process_cards.py
+test_ocr_debug.py
+modules/
+utils/
+
+# ============================================
+# Private Data (contact records, card images)
+# ============================================
+assets/
+assets2/
+database/
+
+# ============================================
+# Excluded Documentation
+# ============================================
+specifications.md
+skills.md
+lessons.md
+CHANGES.md
+IMPLEMENTATION_GUIDE.md
+DEPLOYMENT_CHECKLIST.md
+QUICKSTART.md
+PHASE5_SUMMARY.txt
+Business_Card_Extraction_Project.pdf
+CLAUDE.md
+
+# ============================================
+# Secrets and Environment
+# ============================================
+.env
+.env.*
+.env.local
+.env.production
+*.key
+*.pem
+*.secret
+
+# ============================================
+# Build / Virtual Environment
+# ============================================
+.venv/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+uv.lock
+requirements.txt
+
+# ============================================
+# OS and IDE
+# ============================================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ============================================
+# Claude Code internals
+# ============================================
+.claude/

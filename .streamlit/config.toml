@@ -1,0 +1,23 @@
+[server]
+maxUploadSize = 500
+headless = false
+runOnSave = true
+port = 8501
+
+[browser]
+serverAddress = "localhost"
+gatherUsageStats = false
+
+[client]
+showErrorDetails = true
+
+[logger]
+level = "info"
+
+[theme]
+base = "dark"
+primaryColor      = "#00D4AA"
+backgroundColor   = "#0A0F1E"
+secondaryBackgroundColor = "#131929"
+textColor         = "#E8EAF6"
+font              = "sans serif"

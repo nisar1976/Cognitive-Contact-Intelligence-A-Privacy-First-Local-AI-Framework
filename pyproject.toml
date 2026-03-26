@@ -1,0 +1,22 @@
+[project]
+name = "visiting-cards-ai"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "streamlit==1.35.0",
+    "pytesseract>=0.3.10",
+    "opencv-python>=4.8.0",
+    "pillow>=10.0.0",
+    "pandas>=2.0.0",
+    "numpy>=1.24.0,<2.0",
+    "python-dotenv>=1.0.0",
+    "faiss-cpu>=1.7.4",
+    "sentence-transformers>=2.2.2",
+    "requests>=2.31.0",
+    "tqdm>=4.66.0",
+    "scikit-learn>=1.3.0",
+    "easyocr>=1.7.0",
+    "paddlepaddle>=2.5.0,<3.0",
+    "paddleocr>=2.7.0,<3.0",
+    "torch>=2.4.0,<2.6.0",
+]
